@@ -2,6 +2,7 @@ This is an multiple processing program for video play and analysis.
 
 Here you will find 6 files  
 VideoAndAnalysisProcess.pdf The workflow for video play and analysis  
+VideoAndAnalysisProcess.vsdx The workflow for video play and analysis(Visio)   
 analysis.py  Analysis Class  
 videoplayer.py  Video Player Class(Using Factory Design Pattern)  
 main.py  Main class and it will generate analysis object, videoplayer object, video process and analysis process.  
